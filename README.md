@@ -42,7 +42,7 @@ If you chose the second option, you will see it in the command-line interface.
 * Browsers may save the server response redirection in cache, so you might see logs are not printing if you point to the same URL
 
 ### Exceptions
-If the request cannot be proxied to the requested URL, one of the followings exception will appear on your browser:
+If the request cannot be proxied to the requested URL, one of the following exceptions will appear on your browser:
 
 | HTTP Status | Code     | Exception                            | Description
 |-------------|----------|--------------------------------------|--------------------------
